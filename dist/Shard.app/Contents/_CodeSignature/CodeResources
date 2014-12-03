@@ -29,7 +29,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YYsVY0hQEUQ1MX1+UVdNDs+nCcs=
+			BHv6TFq6+rpFiP8tH5FoH9xCfFk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -38,7 +38,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OGFVxH2WZwUXxFPSFqeF7GtBhts=
+			X0XDU24ev6m4i1CBfBBk8MzwayI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -47,27 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AtnHbr8p1ve5fzlEsPYg8FEFLzc=
+			G+E3FQwXPGICQzyXppo10Lxrr5M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/contrib/libgfshare/COPYRIGHT</key>
-		<data>
-		St+d7qUKAQSOGocD70ZMa2qiarU=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare.c</key>
-		<data>
-		S3v0LJDXBiaZt4WS+MVXlyp3314=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare.h</key>
-		<data>
-		PO1sJ0StYMWWBBSwC+fYeed6K/I=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare_tables.h</key>
-		<data>
-		HOuwKziBCcOaz7ijCBy1vaQZUgE=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -96,7 +80,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YYsVY0hQEUQ1MX1+UVdNDs+nCcs=
+			BHv6TFq6+rpFiP8tH5FoH9xCfFk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -105,7 +89,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OGFVxH2WZwUXxFPSFqeF7GtBhts=
+			X0XDU24ev6m4i1CBfBBk8MzwayI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -114,27 +98,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AtnHbr8p1ve5fzlEsPYg8FEFLzc=
+			G+E3FQwXPGICQzyXppo10Lxrr5M=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Resources/contrib/libgfshare/COPYRIGHT</key>
-		<data>
-		St+d7qUKAQSOGocD70ZMa2qiarU=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare.c</key>
-		<data>
-		S3v0LJDXBiaZt4WS+MVXlyp3314=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare.h</key>
-		<data>
-		PO1sJ0StYMWWBBSwC+fYeed6K/I=
-		</data>
-		<key>Resources/contrib/libgfshare/libgfshare_tables.h</key>
-		<data>
-		HOuwKziBCcOaz7ijCBy1vaQZUgE=
-		</data>
 	</dict>
 	<key>rules</key>
 	<dict>
