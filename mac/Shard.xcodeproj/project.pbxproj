@@ -32,7 +32,6 @@
 /* Begin PBXFileReference section */
 		491B0FBA1A2E1A7400BB49CC /* shardshare.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = shardshare.c; path = ../../c/shardshare.c; sourceTree = "<group>"; };
 		491B0FBB1A2E1A7400BB49CC /* shardshare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = shardshare.h; path = ../../c/shardshare.h; sourceTree = "<group>"; };
-		491B0FBE1A2E1A9100BB49CC /* libgfshare.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = libgfshare.h; path = ../../c/contrib/libgfshare/libgfshare.h; sourceTree = "<group>"; };
 		491B0FBF1A2E1AAB00BB49CC /* libgfshare.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = libgfshare.c; path = ../../c/contrib/libgfshare/libgfshare.c; sourceTree = "<group>"; };
 		491B0FC01A2E1AAB00BB49CC /* libgfshare.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = libgfshare.h; path = ../../c/contrib/libgfshare/libgfshare.h; sourceTree = "<group>"; };
 		4997FDCF1A2D31270052B651 /* Shard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Shard.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,7 +89,6 @@
 		4997FDD11A2D31270052B651 /* Shard */ = {
 			isa = PBXGroup;
 			children = (
-				491B0FBE1A2E1A9100BB49CC /* libgfshare.h */,
 				491B0FBF1A2E1AAB00BB49CC /* libgfshare.c */,
 				491B0FC01A2E1AAB00BB49CC /* libgfshare.h */,
 				491B0FBA1A2E1A7400BB49CC /* shardshare.c */,

@@ -168,6 +168,8 @@ do_gfsplit( unsigned int sharecount,
     unsigned char* buffer = malloc( BUFFER_SIZE );
     gfshare_ctx *G;
     
+    gfshare_fill_rand = gfsplit_fill_rand;
+    
     if( sharenrs == NULL || outputfiles == NULL || outputfilenames == NULL || outputfilebuffer == NULL || buffer == NULL ) {
         perror( "malloc" );
         return 1;
